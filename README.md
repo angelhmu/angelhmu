@@ -1,16 +1,17 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="" width="400">
+  <h1>Hi! I'm Hershey <3</h1>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/hershey-batore-24271b306/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+  </div>
+</div>
 
-<!--
-**angelhmu/angelhmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="about">
+  <h1>
+    <img src="https://media.giphy.com/media/kRhvFTWuH6Tc7oPWJT/giphy.gif?cid=ecf05e47zsu59dc5rsxvi5pp1e86wvu9y3uokswgfgezz78a&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" length="40">
+    About Me
+  </h1>
+  <p>I am a third year Software Systems student at Simon Fraser University</p>
+</div>
