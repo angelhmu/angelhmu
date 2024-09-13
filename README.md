@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="" width="400">
   <h1>Hi! I'm Hershey <3</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/hershey-batore-24271b306/">
